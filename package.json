@@ -37,7 +37,7 @@
     "@aws-cdk/core": "^1.122.0",
     "@types/jest": "^27.0.1",
     "@types/node": "16.9.1",
-    "aws-sdk": "^2.986.0",
+    "aws-sdk": "^2.994.0",
     "dotenv": "^10.0.0",
     "eslint": "^7.32.0",
     "fs-extra": "^10.0.0",
