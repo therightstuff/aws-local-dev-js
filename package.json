@@ -34,6 +34,6 @@
     "simple-recursive-checksum": "^0.0.14",
     "source-map-support": "^0.5.21",
     "ts-node": "^10.9.2",
-    "typescript": "~5.6.3"
+    "typescript": "~5.7.2"
   }
 }
